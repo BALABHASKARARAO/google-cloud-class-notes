@@ -56,5 +56,21 @@
 * click on "create instance"
 ![compute-2](./images/compute-2.PNG)
 
-![compute-2](./images/compute-3.PNG)
+![compute-3](./images/compute-3.PNG)
+
+![compute-4](./images/compute-4.PNG)
+
+![compute-5](./images/compute-5.PNG)
+
+![compute-6](./images/compute-6.PNG)
+
+![compute-7](./images/compute-7.PNG)
+
+![compute-8](./images/compute-8.PNG)
+
+![compute-9](./images/compute-9.PNG)
+
+* remaing things "leave" as default
+
+
 
