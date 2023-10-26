@@ -39,3 +39,22 @@
 ![api-serivices-3](./images/api-services-image-3.PNG)
 
 * in the same way __we can disable__ api, if we do not want ot use that service.
+
+
+
+### compute engine
+
+* it is  simliamr to AWS Ec2 servive
+* to use compute service -- >first we need "enable" compute engine api
+
+* whenever enable  __compute engineer api__, it will automatically create one "sercive account "at IAM-admin" GCP service.
+
+![compute-1](./images/compute-1.PNG)
+
+ ## create simple "ubuntu" instance & install apche webser , access fromw internrt
+
+* click on "create instance"
+![compute-2](./images/compute-2.PNG)
+
+![compute-2](./images/compute-3.PNG)
+
