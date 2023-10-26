@@ -72,5 +72,39 @@
 
 * remaing things "leave" as default
 
+![compute-10](./images/compute-10.PNG)
+
+![compute-11](./images/compute-11.PNG)
+
+* run the flollowing commandas to intall _-apache2 webserver in the VM
+
+```
+sudo apt update
+sudo apt install apache2 -y
+sudo systemkctl enable apache2.service
+```
+
+
+* copy __public IP__ of the in the broeswr , it unable to disaply webapage, because *80 port is not opened.
+
+
+* to open *80 port, need to create __firewall__ at __VPC__ service.
+
+![compute-12](./images/compute-12.PNG)
+
+* click on __firewall__
+
+![compute-13](./images/compute-13.PNG)
+
+![compute-14](./images/compute-14.PNG)
+
+![compute-15](./images/compute-15.PNG)
+
+![compute-16](./images/compute-16.PNG)
+
+![compute-17](./images/compute-17.PNG)
+
+
+* now 80 port is opned. web page is dispaled from internet.
 
 
