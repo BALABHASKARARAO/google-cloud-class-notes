@@ -85,10 +85,10 @@ sudo systemctl enable apache2.service
 ```
 
 
-* copy __public IP__ of the in the broeswr , it unable to disaply webapage, because *80 port is not opened.
+* copy __public IP__ of the in the browser , it unable to dispaly  the webapage, because 80 port is not opened to internet.
 
 
-* to open *80 port, need to create __firewall__ at __VPC__ service.
+* to open 80 port, we  need to create __firewall__ at __VPC__ service.
 
 ![compute-12](./images/compute-12.PNG)
 
