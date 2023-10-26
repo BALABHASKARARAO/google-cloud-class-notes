@@ -2,4 +2,4 @@
 
 * GCP organisation strcutre image
 
-![org-strcutr](./gcp-oganisation-strcuture.svg)
+![org-strcutr](./images/gcp-oganisation-strcuture.svg)
