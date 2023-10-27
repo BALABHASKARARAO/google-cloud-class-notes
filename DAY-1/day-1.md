@@ -14,7 +14,7 @@
 ## GCP projet notes
 
 * project name, project id, project number
-* project name cane change at a nay tme
+* project name __can be change at any point of time__.
 * project id --> we can chnage, we can give any name at the time of creating project
 * project number will be givem by __google cloud__, it can chnage , upto life time of prioject
 * each project is linked on billing account otherwsie __GCP__ does not aloow to create resources.
