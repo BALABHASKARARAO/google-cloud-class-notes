@@ -1,5 +1,3 @@
-# google cloud compute
-
 ## GCP compute 
 * in this GCP service we can create virtual machines
 
