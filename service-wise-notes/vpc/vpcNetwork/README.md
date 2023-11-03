@@ -19,4 +19,4 @@ region meaning group in zones  in the same country
 
 ## zone
 ``` 
-zone is nothing but group od data ceters
+zone is nothing but group of data centers in the within  in the  region
